@@ -6110,5 +6110,15 @@
                 "5a46675e4467f7da"
             ]
         ]
+    },
+    {
+        "id": "080d35d5705e1a78",
+        "type": "comment",
+        "z": "e0590eab702f52a7",
+        "name": "Proyecto de monitoreo",
+        "info": "",
+        "x": 596,
+        "y": 48,
+        "wires": []
     }
 ]

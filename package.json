@@ -2,7 +2,19 @@
     "name": "Proyecto_de_monitoreo",
     "description": "Sistema de monitoreo de una planta de ósmosis",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "@flowfuse/node-red-dashboard": "1.18.1",
+        "atomic-mssql": "0.0.20",
+        "node-red-contrib-controltimer": "0.4.1",
+        "node-red-contrib-mssql": "0.0.7",
+        "node-red-contrib-telegrambot": "16.1.0",
+        "node-red-contrib-s7": "3.1.0",
+        "node-red-contrib-ui-led": "0.4.11",
+        "node-red-contrib-whatsapp-cmb": "1.0.3",
+        "node-red-node-sqlite": "1.1.0",
+        "node-red-dashboard": "3.6.5",
+        "ubidots-nodered": "2.0.2"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows.json",
