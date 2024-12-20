@@ -1,0 +1,12 @@
+{
+    "name": "Proyecto_de_monitoreo",
+    "description": "Sistema de monitoreo de una planta de ósmosis",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flujos_cred.json"
+        }
+    }
+}

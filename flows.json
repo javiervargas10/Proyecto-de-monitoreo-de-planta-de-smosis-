@@ -1,0 +1,6114 @@
+[
+    {
+        "id": "e0590eab702f52a7",
+        "type": "tab",
+        "label": "Flow 4",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "40aa7650d9fa66d1",
+        "type": "group",
+        "z": "e0590eab702f52a7",
+        "name": "",
+        "style": {
+            "stroke": "#ff0000",
+            "stroke-opacity": "0.92",
+            "label": true,
+            "color": "#ff0000",
+            "fill": "#ffff7f"
+        },
+        "nodes": [
+            "8d36b5cae8399a40",
+            "3130f71e60784dc9",
+            "ad03d7d68cd642ad",
+            "e99a47600e250e8a",
+            "2d27b12a4240de75",
+            "c9c97d5a0c27176e",
+            "441164144c17e8a9",
+            "f7f79aff0e8c6c47",
+            "c452a9261a3da37e",
+            "e5f3a1c86808d173",
+            "ea4c792684f6096c",
+            "d3cecf531739e032",
+            "184274c3e63d74f8",
+            "e0bce8599bccbc7a",
+            "95c012c27046bddf",
+            "ab4e7e6d74d5c718",
+            "25ab23bdc278268c",
+            "c115c25ae6da5254",
+            "bb8da5b6b4c0880a",
+            "3163d90de6815eed",
+            "f9bbb702699b3429",
+            "cfcbfdf86fc2f1da",
+            "5be81c4c3446ed98",
+            "829f01e230a119c5",
+            "ed65d0285344367e",
+            "b23e7c38d90c5c9c",
+            "20ca43ce1d116c66",
+            "a8d444732c9e8f1c",
+            "5007435f2f402755",
+            "16f0b6ac9c2d5747",
+            "48e11ac3e2ac171f",
+            "44d9b3abb63d0c7f",
+            "23faa756b0995176",
+            "353eb43962b5d8fa",
+            "4572cdeb6d17f60d",
+            "85a133a50b78a14f",
+            "b8a034cf3f523711"
+        ],
+        "x": 62,
+        "y": 119,
+        "w": 1392,
+        "h": 722
+    },
+    {
+        "id": "553c3308f4d5fb6c",
+        "type": "group",
+        "z": "e0590eab702f52a7",
+        "name": "",
+        "style": {
+            "stroke": "#0070c0",
+            "fill": "#bfdbef",
+            "label": true
+        },
+        "nodes": [
+            "80ee2c242b009a50",
+            "af57796eaa69c254",
+            "fc42ebeafd76e894",
+            "a8e45e7341438974",
+            "39c3ce27e39ec20a",
+            "60f83a417d4f1299",
+            "9e832490ddc67573",
+            "d9909b8ab94fee7c",
+            "0b396c4263a5e6c3",
+            "74ae41e66fedb3d7",
+            "cc7f7feaa319b5a3",
+            "5020d89ffe1b0e04",
+            "640bfae85a650e21",
+            "a77f8bef92e2f396",
+            "80f87c9f5269bcb9"
+        ],
+        "x": 62,
+        "y": 855,
+        "w": 1300,
+        "h": 290
+    },
+    {
+        "id": "cc6a9d5bce0ee085",
+        "type": "group",
+        "z": "e0590eab702f52a7",
+        "name": "",
+        "style": {
+            "stroke": "#ff0000",
+            "fill": "#ffbfbf",
+            "label": true
+        },
+        "nodes": [
+            "3e04282bc7c829d8",
+            "35b22163cabecadc",
+            "188f621ce489e0a2",
+            "3141deb7838ee815",
+            "d4683c683701ddab",
+            "1f5a7ec2ce6c7665",
+            "a6455003a7d285ad",
+            "05ac6cf7dd0b70b2",
+            "1a98de4a67cd1eba",
+            "3e0ab4da5c48d0a0",
+            "e6e599b639f0dfe7",
+            "146d17dfb103858a",
+            "b642fe4a1a1e6a24",
+            "ccb37f9f9d8c515b",
+            "d159e979cc7a616b",
+            "575632f6da4793cf",
+            "029cda132fc60b82",
+            "10f9ac3e8f592f33",
+            "985863dbdf58b100",
+            "c7af2d5f48e59f61",
+            "0cd835f97ce8a25f",
+            "c068c1a9a851a51d",
+            "8b9363e4c36247fa",
+            "16e0f12bf5a5fcb8",
+            "39838bb30795e8a0"
+        ],
+        "x": 58,
+        "y": 1159,
+        "w": 1312,
+        "h": 434
+    },
+    {
+        "id": "e2db13d19e02f84e",
+        "type": "group",
+        "z": "e0590eab702f52a7",
+        "name": "",
+        "style": {
+            "stroke": "#92d04f",
+            "fill": "#c8e7a7",
+            "label": true
+        },
+        "nodes": [
+            "2df553a9b3696179",
+            "46b076b331d95ee8",
+            "0d0cf5998fb9c1c0",
+            "53e923be9628b1eb",
+            "c44c8aa5375b450e",
+            "71e20305c3a58ec9",
+            "5494a0d2db169de9",
+            "a50ca50466112514",
+            "35e06cb89b146ece",
+            "1c4311b8b372666f",
+            "d61914575222f26f",
+            "b952084e8c40bf3c",
+            "f0f583c6aa092067",
+            "1dcf96bcc2e6524e",
+            "ef05827f0b14e03e",
+            "ab86e5642eaad4fc",
+            "baeef07e7fd78361",
+            "8ef32fbc7ecc75ab",
+            "11336fcc991880e7",
+            "841c89121d191d9c",
+            "1dee14e9351ac49e",
+            "7b3083d4991a685b",
+            "7912b1b9b2f9b3c4",
+            "a240ad8a7d559fc3",
+            "b8c9f07fb8e697af",
+            "6628bacff5dda25b",
+            "730a230921bffb5a",
+            "1cbcd73e0d4c5dab",
+            "045dc6f08e9d1c9a",
+            "e73609ac22b1282f",
+            "a6c1f4b94be7bfbb",
+            "68c25ebb331af22f",
+            "2d8a9d9434da448d",
+            "235fc0ab943c7624",
+            "792cfeeaaccf8a7e",
+            "3810c1a2cc854a04",
+            "72ea1dc0db27d65d",
+            "4a8cd2c7186e172a",
+            "4593353d4374977b",
+            "5f7408b87c57f5cd",
+            "ab99ad1df737ed72",
+            "fa4ccff90faff053",
+            "a5317729a70a731a",
+            "6d73867c4e717753",
+            "671ff21608c4f129",
+            "7bd0e0481382da46",
+            "47881557d7b10ee1",
+            "b170e715934beb16",
+            "d55fcdb9b95824df",
+            "2151ce6bf4e19217",
+            "e8d483342be87348",
+            "de0b140c86aeecf4",
+            "793fcf5a701f3e97",
+            "b76758aa33470f61",
+            "a2631981b8965ed7",
+            "053d0069be7b4522",
+            "3898d3f522cd819d",
+            "2b039e859714ff46",
+            "bc05ca20de9a5e12",
+            "30f24633a7fa3ff5"
+        ],
+        "x": 46,
+        "y": 2103,
+        "w": 1392,
+        "h": 1042
+    },
+    {
+        "id": "ee832e5d1d1350b6",
+        "type": "group",
+        "z": "e0590eab702f52a7",
+        "name": "",
+        "style": {
+            "stroke": "#6f2fa0",
+            "fill": "#dbcbe7",
+            "label": true,
+            "fill-opacity": "0.97"
+        },
+        "nodes": [
+            "d7a620549d64342e",
+            "70f27e5f337faf91",
+            "dec245eccf0f90ed",
+            "ad7e20829d413305",
+            "72a4f9c844e57a7d",
+            "ec9a2cde34641762",
+            "f76d4d345913945c",
+            "375f15bbb9101fba",
+            "1cad0cac2ff9e33b",
+            "bd9423fda59eb289",
+            "4cb40ce5bc703248",
+            "15f2ea1c112893c3",
+            "cea3ee490b63420f",
+            "9223bfae16115ff0",
+            "6e8f71a1302e2f46",
+            "82f982a156f680d8",
+            "9dcaca769278f923",
+            "a7999bbdf5436fb1",
+            "582b578ce061d9a7",
+            "219040d3653a225a",
+            "22a02ee92b4290e4",
+            "b112097ba0152fc8",
+            "a310857abcf04b45",
+            "a8deb53c846a9639",
+            "7f08aaa8e6f9905a",
+            "5a46675e4467f7da",
+            "dd9b72cd32f88cb9"
+        ],
+        "x": 54,
+        "y": 1607,
+        "w": 1140,
+        "h": 482
+    },
+    {
+        "id": "32489366075ab2e1",
+        "type": "group",
+        "z": "e0590eab702f52a7",
+        "name": "",
+        "style": {
+            "stroke": "#777777",
+            "label": true,
+            "fill": "#d1d1d1"
+        },
+        "nodes": [
+            "17d85a7c6cc7be23",
+            "abb854f737013e54",
+            "2d72d2c2d16b6aa2",
+            "14bc7d65293b1199",
+            "5927891a15ae016a"
+        ],
+        "x": 42,
+        "y": 3159,
+        "w": 1220,
+        "h": 178
+    },
+    {
+        "id": "b8f9b4bf1093e6ff",
+        "type": "group",
+        "z": "e0590eab702f52a7",
+        "name": "",
+        "style": {
+            "stroke": "#ffdf7f",
+            "label": true,
+            "fill": "#ffefbf"
+        },
+        "nodes": [
+            "ba298b1e4c2abcbc",
+            "fe5355ced5807520",
+            "3279d9e3e0fed931",
+            "496f1b10379fc0f7",
+            "ca9a6d0a1fa74cec",
+            "1da25cb7570be82d",
+            "c7daa574391b278f",
+            "d6e6ce057b9e7994",
+            "cfbca9faa241b65d",
+            "bac5199148b92a48",
+            "e04090ab34b951b3",
+            "6c61e2f4d3de42ef"
+        ],
+        "x": 42,
+        "y": 3351,
+        "w": 1224,
+        "h": 274
+    },
+    {
+        "id": "26d0ea96339f3d4d",
+        "type": "group",
+        "z": "e0590eab702f52a7",
+        "name": "",
+        "style": {
+            "stroke": "#92d04f",
+            "fill": "#c8e7a7",
+            "label": true
+        },
+        "nodes": [
+            "2404805a53582dcc",
+            "05200a7d225ef828",
+            "1f610167a77820cd",
+            "2d5e7332914d174b",
+            "42027049fba75e8e",
+            "1b3cb96953468237",
+            "691fd03691767881",
+            "0ef749a0dc21f699",
+            "14657fe562fc393e",
+            "83782fd6b0e15fd4",
+            "360c16f838006425",
+            "acaaa98435fba13c",
+            "63b39c81a7f9fb62",
+            "8dceda73b265a103",
+            "7c0caf7165530154"
+        ],
+        "x": 46,
+        "y": 3751,
+        "w": 1244,
+        "h": 482
+    },
+    {
+        "id": "034f02a40b52a651",
+        "type": "group",
+        "z": "e0590eab702f52a7",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "569018e000e0272b",
+            "22de92fd6fee438f",
+            "85edfa19c3c96d8a",
+            "1612cf32b8f19a3d",
+            "cf4932fdeb47e3b8",
+            "8b2990f72fd93a4c"
+        ],
+        "x": 46,
+        "y": 3639,
+        "w": 1228,
+        "h": 82
+    },
+    {
+        "id": "b69ae2ece7ee7947",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-dark",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#097479",
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#0eb8c0",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#555555",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#eeeeee",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#097479",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "190142d67db5c7df",
+        "type": "s7 endpoint",
+        "transport": "iso-on-tcp",
+        "address": "127.0.0.7",
+        "port": "102",
+        "rack": "0",
+        "slot": "2",
+        "localtsaphi": "01",
+        "localtsaplo": "00",
+        "remotetsaphi": "01",
+        "remotetsaplo": "00",
+        "connmode": "rack-slot",
+        "adapter": "",
+        "busaddr": "2",
+        "cycletime": "1000",
+        "timeout": "2000",
+        "name": "",
+        "vartable": [
+            {
+                "addr": "M0.0",
+                "name": "partir"
+            },
+            {
+                "addr": "DB1,X6.0",
+                "name": "dato_bool"
+            },
+            {
+                "addr": "DB1,INT4",
+                "name": "dato_int"
+            },
+            {
+                "addr": "DB1,REAL0",
+                "name": "dato_ral"
+            },
+            {
+                "addr": "DB1,S8.10",
+                "name": "string"
+            }
+        ]
+    },
+    {
+        "id": "ae05dd53a4f29538",
+        "type": "s7 endpoint",
+        "transport": "iso-on-tcp",
+        "address": "127.0.0.7",
+        "port": "102",
+        "rack": "0",
+        "slot": "2",
+        "localtsaphi": "01",
+        "localtsaplo": "00",
+        "remotetsaphi": "01",
+        "remotetsaplo": "00",
+        "connmode": "rack-slot",
+        "adapter": "",
+        "busaddr": "2",
+        "cycletime": "1000",
+        "timeout": "2000",
+        "name": "PLC - UNAB",
+        "vartable": [
+            {
+                "addr": "DB1,X18.7",
+                "name": "Node - Red.planta ancendida"
+            },
+            {
+                "addr": "DB1,X19.0",
+                "name": "Node - Red.encender planta"
+            },
+            {
+                "addr": "DB1,X18.3",
+                "name": "inicio de planta"
+            },
+            {
+                "addr": "DB1,X18.5",
+                "name": "planta funcionando"
+            },
+            {
+                "addr": "DB1,INT2",
+                "name": "2.Sensor de presión"
+            },
+            {
+                "addr": "DB1,X4.0",
+                "name": "Bomba agua salada"
+            },
+            {
+                "addr": "DB1,INT6",
+                "name": "4.Filtro zeolita"
+            },
+            {
+                "addr": "DB1,X0.0",
+                "name": "1. valvula de corte"
+            },
+            {
+                "addr": "DB1,X8.0",
+                "name": "5.valvula de corte zeolita"
+            },
+            {
+                "addr": "DB1,X8.1",
+                "name": "6.boma de alta presión"
+            },
+            {
+                "addr": "DB1,INT10",
+                "name": "7.Sensor de presión Bembrabnas"
+            },
+            {
+                "addr": "DB1,X12.0",
+                "name": "8.caudalimetro membranas"
+            },
+            {
+                "addr": "DB4,INT8",
+                "name": "Tem.pasando por benmbranas "
+            },
+            {
+                "addr": "DB1,INT14",
+                "name": "9.caudalimetro de permeado"
+            },
+            {
+                "addr": "DB1,INT16",
+                "name": "10.caudalimetro de rechazo"
+            },
+            {
+                "addr": "DB1,X19.1",
+                "name": "\"Node - Red\".\"luz negra rechazo\""
+            },
+            {
+                "addr": "DB1,X19.2",
+                "name": "luz amarilla permeado"
+            },
+            {
+                "addr": "DB1,INT20",
+                "name": "marca nivel modificable"
+            },
+            {
+                "addr": "DB1,X22.2",
+                "name": "luz alta verde"
+            },
+            {
+                "addr": "DB1,X22.4",
+                "name": "luz baja verde"
+            },
+            {
+                "addr": "DB1,X22.3",
+                "name": "Luz media verde"
+            },
+            {
+                "addr": "DB1,INT28",
+                "name": "\"Node - Red\".\"100.variable escalable\""
+            },
+            {
+                "addr": "DB1,X22.5",
+                "name": "ALARMANIVEL BAJO"
+            },
+            {
+                "addr": "DB1,X22.6",
+                "name": "ALARMA REBALSE"
+            }
+        ]
+    },
+    {
+        "id": "479130c62edd472a",
+        "type": "ui-base",
+        "name": "My Dashboard",
+        "path": "/dashboard",
+        "appIcon": "",
+        "includeClientData": true,
+        "acceptsClientConfig": [
+            "ui-notification",
+            "ui-control"
+        ],
+        "showPathInSidebar": false,
+        "showPageTitle": true,
+        "navigationStyle": "default",
+        "titleBarStyle": "default"
+    },
+    {
+        "id": "a6e25bd81ff941cd",
+        "type": "ui-theme",
+        "name": "2.0",
+        "colors": {
+            "surface": "#345f60",
+            "primary": "#0094ce",
+            "bgPage": "#272525",
+            "groupBg": "#2c2a2a",
+            "groupOutline": "#272525"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "933b3fc755f05b2e",
+        "type": "ui-page",
+        "name": "Página Principal",
+        "ui": "479130c62edd472a",
+        "path": "/page1",
+        "icon": "home",
+        "layout": "grid",
+        "theme": "a6e25bd81ff941cd",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 1,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "c657a88d12dbb4da",
+        "type": "ui-page",
+        "name": "Configuración Alarmas",
+        "ui": "479130c62edd472a",
+        "path": "Alarma",
+        "icon": "alarm-light",
+        "layout": "grid",
+        "theme": "a6e25bd81ff941cd",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 2,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "1e8599716dde603b",
+        "type": "ui-group",
+        "name": "ENCENDIDO",
+        "page": "933b3fc755f05b2e",
+        "width": "3",
+        "height": "1",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "7090a88b69cf64c6",
+        "type": "ui-group",
+        "name": "MEMBRANAS",
+        "page": "933b3fc755f05b2e",
+        "width": "3",
+        "height": "1",
+        "order": 5,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "a49f05fd89f458a1",
+        "type": "ui-group",
+        "name": "Notificaciones",
+        "page": "c657a88d12dbb4da",
+        "width": "6",
+        "height": "1",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "57b649f10b6e1d82",
+        "type": "ui-page",
+        "name": "Graficos Corriente",
+        "ui": "479130c62edd472a",
+        "path": "/page3",
+        "icon": "chart-line",
+        "layout": "grid",
+        "theme": "a6e25bd81ff941cd",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 3,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "4f954e2d40802431",
+        "type": "ui-theme",
+        "name": "oscuro",
+        "colors": {
+            "surface": "#1c1217",
+            "primary": "#0e5d38",
+            "bgPage": "#eeeeee",
+            "groupBg": "#130606",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "65f4ad61fac9441a",
+        "type": "ui-group",
+        "name": "BOMBAS",
+        "page": "933b3fc755f05b2e",
+        "width": "3",
+        "height": "1",
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "d516b30965182469",
+        "type": "ui-theme",
+        "name": "azul",
+        "colors": {
+            "surface": "#0a0000",
+            "primary": "#0094ce",
+            "bgPage": "#0a0a0a",
+            "groupBg": "#ffffff",
+            "groupOutline": "#525357"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "9eae79b7c0422254",
+        "type": "ui-group",
+        "name": "NIVEL ESTANQUE DE AGUA",
+        "page": "933b3fc755f05b2e",
+        "width": "3",
+        "height": "1",
+        "order": 6,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "2159be247318b43f",
+        "type": "sqlitedb",
+        "db": "JEVK\\WINCCPLUSMIG2014",
+        "mode": "RWC"
+    },
+    {
+        "id": "2ac9a40646e02f6b",
+        "type": "ui-group",
+        "name": "SENSORES DE NIVEL",
+        "page": "933b3fc755f05b2e",
+        "width": "3",
+        "height": "1",
+        "order": 7,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "bb544f32691fe8ca",
+        "type": "ui-group",
+        "name": "TDS",
+        "page": "933b3fc755f05b2e",
+        "width": "3",
+        "height": "1",
+        "order": 4,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "97b475c85825c88e",
+        "type": "ui-group",
+        "name": "ZEOLITA",
+        "page": "933b3fc755f05b2e",
+        "width": "3",
+        "height": "1",
+        "order": 3,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "2a82fd94c4b138b3",
+        "type": "ui-group",
+        "name": "CORRIENTE B.A",
+        "page": "57b649f10b6e1d82",
+        "width": "13",
+        "height": "1",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "f5b8b464df757ddc",
+        "type": "ui-group",
+        "name": "CENTRO ISLA LICHA",
+        "page": "933b3fc755f05b2e",
+        "width": "3",
+        "height": "1",
+        "order": 8,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "40a192473468ce8b",
+        "type": "MSSQL-CN",
+        "name": "DB*UNAB",
+        "server": "JEVK\\WINCCPLUSMIG2014",
+        "encyption": false,
+        "database": "UNAB"
+    },
+    {
+        "id": "7827e39721513cec",
+        "type": "ui-page",
+        "name": "Historicos",
+        "ui": "479130c62edd472a",
+        "path": "/page5",
+        "icon": "clipboard-text-clock",
+        "layout": "grid",
+        "theme": "a6e25bd81ff941cd",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 4,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "4ee7e69b3d803910",
+        "type": "MSSQL Connection",
+        "name": "",
+        "server": "JEVK\\WINCCPLUSMIG2014",
+        "port": "1433",
+        "authType": "default",
+        "domain": "",
+        "database": "UNAB",
+        "poolMin": "1",
+        "poolMax": "10",
+        "poolIdleTimeoutMillis": "30000",
+        "requestTimeout": "15000",
+        "connectionTimeout": "15000",
+        "connectionRetryInterval": "3000"
+    },
+    {
+        "id": "d19c3680d662211d",
+        "type": "ui-group",
+        "name": "Group Name",
+        "page": "7827e39721513cec",
+        "width": "6",
+        "height": "1",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "4eefd0774d2ba4dd",
+        "type": "ui_tab",
+        "name": "TABLERO GENERAL - MODELO DE PLANTA: T503 - EMPRESA: CAMANCHACA  - CENTRO: LICHA / P 66 - ÁREA: MELINKA -  INSTALACIÓN: 04-06-2023",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "e6c39414c5b3f955",
+        "type": "ui_group",
+        "name": "             ENCENDIDO",
+        "tab": "4eefd0774d2ba4dd",
+        "order": 1,
+        "disp": true,
+        "width": "5",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d7be4132c3e01693",
+        "type": "ui_group",
+        "name": "ESTADO DE BOMBAS",
+        "tab": "4eefd0774d2ba4dd",
+        "order": 2,
+        "disp": true,
+        "width": "4",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "8ef9e5a48dd6ff4a",
+        "type": "ui_group",
+        "name": "INDICADORES",
+        "tab": "4eefd0774d2ba4dd",
+        "order": 6,
+        "disp": true,
+        "width": 28,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "5e89c458d445a147",
+        "type": "ui_tab",
+        "name": "HISTORICOS",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "6abf8a692de7b9e2",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "5e89c458d445a147",
+        "order": 1,
+        "disp": false,
+        "width": "28",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "2e37d4ce11acde62",
+        "type": "ui_group",
+        "name": "ESTADO NIVEL",
+        "tab": "4eefd0774d2ba4dd",
+        "order": 5,
+        "disp": true,
+        "width": "5",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "1906a18cbb8e95c0",
+        "type": "ui_group",
+        "name": "CORTE EMERGENCIA",
+        "tab": "4eefd0774d2ba4dd",
+        "order": 3,
+        "disp": true,
+        "width": "5",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "54bca8b9f7eaae3d",
+        "type": "ui_group",
+        "name": "NIVEL ESTANQUE",
+        "tab": "4eefd0774d2ba4dd",
+        "order": 4,
+        "disp": true,
+        "width": "9",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "73a176511ab9bf41",
+        "type": "ui_tab",
+        "name": "GRÁFICOS",
+        "icon": "",
+        "order": 3,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "3af5289bcdfbfe5c",
+        "type": "ui_group",
+        "name": "CONCENTRADO",
+        "tab": "73a176511ab9bf41",
+        "order": 1,
+        "disp": true,
+        "width": 14,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "2f9d533311600e8e",
+        "type": "ui_tab",
+        "name": "HISTORICOS",
+        "icon": "chart-line",
+        "order": 4,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "24907a883939d887",
+        "type": "s7 endpoint",
+        "transport": "iso-on-tcp",
+        "address": "127.0.0.7",
+        "port": "102",
+        "rack": "0",
+        "slot": "2",
+        "localtsaphi": "01",
+        "localtsaplo": "00",
+        "remotetsaphi": "01",
+        "remotetsaplo": "00",
+        "connmode": "rack-slot",
+        "adapter": "",
+        "busaddr": "2",
+        "cycletime": "500",
+        "timeout": "2000",
+        "name": "Univerisdad Andres Bello",
+        "vartable": [
+            {
+                "addr": "DB1,X0.0",
+                "name": "Encender_Planta"
+            },
+            {
+                "addr": "DB1,X0.1",
+                "name": "Parar la Planta"
+            },
+            {
+                "addr": "DB1,X0.2",
+                "name": "Salida Planta esta Funcionando"
+            },
+            {
+                "addr": "DB1,X0.3",
+                "name": "Válvula_de_Emergencia"
+            },
+            {
+                "addr": "DB1,X0.4",
+                "name": "Bomba_Agua_Salada"
+            },
+            {
+                "addr": "DB1,DINT2",
+                "name": "Temporizador Filtro Zeolita"
+            },
+            {
+                "addr": "DB1,X6.0",
+                "name": "Salida Filtro Zeolita Funcinando"
+            },
+            {
+                "addr": "DB1,X6.1",
+                "name": "Sensor_Bomba _Alta_Presión"
+            },
+            {
+                "addr": "DB1,INT8",
+                "name": "Barometro Presion Membranas"
+            },
+            {
+                "addr": "DB1,DINT42",
+                "name": "Válvula_de_concentrada_hasta_optener_800_PSI"
+            },
+            {
+                "addr": "DB1,DINT12",
+                "name": "Presion_Entrada_Aproximada_40-50_PSI"
+            },
+            {
+                "addr": "DB1,DINT16",
+                "name": "Sensor_TDS_funcionando_menor_a_250_PPM_en_800_PSI"
+            },
+            {
+                "addr": "DB1,DINT18",
+                "name": "Sensor d e Presion :mo mas de 900 PSI y no menor que  1"
+            },
+            {
+                "addr": "DB1,X20.0",
+                "name": "Permeado"
+            },
+            {
+                "addr": "DB1,X20.1",
+                "name": "Cloración"
+            },
+            {
+                "addr": "DB1,X20.2",
+                "name": "Filtro 5  Micras"
+            },
+            {
+                "addr": "DB1,X20.3",
+                "name": "TDS"
+            },
+            {
+                "addr": "DB1,INT22",
+                "name": "And3 Salida"
+            },
+            {
+                "addr": "DB1,DINT26",
+                "name": "Nivel_Estanque"
+            },
+            {
+                "addr": "DB1,X30.0",
+                "name": "Nivel_Alto"
+            },
+            {
+                "addr": "DB1,X30.1",
+                "name": "Nivel_Medio"
+            },
+            {
+                "addr": "DB1,X30.2",
+                "name": "Nivel_Bajo"
+            },
+            {
+                "addr": "DB1,X30.3",
+                "name": "Alarma_Revalse"
+            },
+            {
+                "addr": "DB1,X30.4",
+                "name": "Alarma_NIvel_Bajo"
+            },
+            {
+                "addr": "DB1,INT26",
+                "name": "NIvel"
+            },
+            {
+                "addr": "DB1,X32.0",
+                "name": "Luz Roja Nivel Alto"
+            },
+            {
+                "addr": "DB1,X32.1",
+                "name": "Rest Nivel"
+            },
+            {
+                "addr": "DB1,DINT34",
+                "name": "Modificable"
+            },
+            {
+                "addr": "DB1,X38.0",
+                "name": "Set Nivel"
+            }
+        ]
+    },
+    {
+        "id": "8e2e55a1e7b9a31b",
+        "type": "sqlitedb",
+        "db": "DB_Historicos",
+        "mode": "RWC"
+    },
+    {
+        "id": "cda164dfc09c19c3",
+        "type": "ui_group",
+        "name": "NIVEL",
+        "tab": "73a176511ab9bf41",
+        "order": 2,
+        "disp": true,
+        "width": 14,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c6b0e789de71bdd3",
+        "type": "ui_spacer",
+        "z": "e0590eab702f52a7",
+        "name": "spacer",
+        "group": "d7be4132c3e01693",
+        "order": 2,
+        "width": 4,
+        "height": 1
+    },
+    {
+        "id": "9ab5a26da40f5c79",
+        "type": "ui_spacer",
+        "z": "e0590eab702f52a7",
+        "name": "spacer",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 4,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "4e9e5fc8d85b2b67",
+        "type": "ui_spacer",
+        "z": "e0590eab702f52a7",
+        "name": "spacer",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 7,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "d632e177d417b6d1",
+        "type": "ui_spacer",
+        "z": "e0590eab702f52a7",
+        "name": "spacer",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 8,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "d1754f3412f0b759",
+        "type": "ui_spacer",
+        "z": "e0590eab702f52a7",
+        "name": "spacer",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 9,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "bed80b4a778cd92c",
+        "type": "ui_spacer",
+        "z": "e0590eab702f52a7",
+        "name": "spacer",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 10,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "3ed42908ec6fada0",
+        "type": "ui_spacer",
+        "z": "e0590eab702f52a7",
+        "name": "spacer",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 11,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "73ddfa2d3e1cf5b4",
+        "type": "ui_spacer",
+        "z": "e0590eab702f52a7",
+        "name": "spacer",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 12,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "958b3ee7f0c75f58",
+        "type": "ui_spacer",
+        "z": "e0590eab702f52a7",
+        "name": "spacer",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 13,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "a39cb7a2ffe5e845",
+        "type": "ui_spacer",
+        "z": "e0590eab702f52a7",
+        "name": "spacer",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 14,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "08945c683825432f",
+        "type": "ui_spacer",
+        "z": "e0590eab702f52a7",
+        "name": "spacer",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 15,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "e33fc7d313179a0a",
+        "type": "MSSQL-CN",
+        "name": "",
+        "server": "",
+        "encyption": true,
+        "database": ""
+    },
+    {
+        "id": "df8c0b88.91b0a8",
+        "type": "MSSQL-CN",
+        "name": "Dev",
+        "server": "localhost",
+        "encyption": false,
+        "database": "UNAB"
+    },
+    {
+        "id": "712b53e5.990dfc",
+        "type": "mqtt-broker",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "NodeRedSQLClient",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "15",
+        "cleansession": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": "",
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": ""
+    },
+    {
+        "id": "3fc035abd3727cf8",
+        "type": "node-red-contrib-whatsapp-cmb-account",
+        "name": "Javier"
+    },
+    {
+        "id": "2f6b4f063002ab45",
+        "type": "telegram bot",
+        "botname": "usernamePlanta_bot",
+        "usernames": "",
+        "chatids": "",
+        "baseapiurl": "",
+        "testenvironment": false,
+        "updatemode": "polling",
+        "addressfamily": "",
+        "pollinterval": "300",
+        "usesocks": false,
+        "sockshost": "",
+        "socksprotocol": "socks5",
+        "socksport": "6667",
+        "socksusername": "anonymous",
+        "sockspassword": "",
+        "bothost": "",
+        "botpath": "",
+        "localbotport": "8443",
+        "publicbotport": "8443",
+        "privatekey": "",
+        "certificate": "",
+        "useselfsignedcertificate": false,
+        "sslterminated": false,
+        "verboselogging": false
+    },
+    {
+        "id": "729a62618fd7b3f0",
+        "type": "sqlitedb",
+        "db": "db003",
+        "mode": "RWC"
+    },
+    {
+        "id": "8d36b5cae8399a40",
+        "type": "ui_led",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "order": 1,
+        "group": "e6c39414c5b3f955",
+        "width": 5,
+        "height": 3,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 434,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "af57796eaa69c254",
+        "type": "ui_led",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "order": 1,
+        "group": "d7be4132c3e01693",
+        "width": 4,
+        "height": 2,
+        "label": "BOMBA AGUA MAR",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": true,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 418,
+        "y": 992,
+        "wires": []
+    },
+    {
+        "id": "80ee2c242b009a50",
+        "type": "comment",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "name": "ESTADO DE BOMBAS",
+        "info": "",
+        "x": 1236,
+        "y": 976,
+        "wires": []
+    },
+    {
+        "id": "fc42ebeafd76e894",
+        "type": "ui_led",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "order": 3,
+        "group": "d7be4132c3e01693",
+        "width": 4,
+        "height": 2,
+        "label": "BOMBA ALTA PRESIÓN",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": true,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 430,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "d7a620549d64342e",
+        "type": "ui_gauge",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "VÁLVULA DE CONCENTRADO 800 PSI",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 1,
+        "width": 6,
+        "height": 5,
+        "gtype": "gage",
+        "title": "Válvula de Concentrado",
+        "label": "PSI ",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "1000",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "0",
+        "seg2": "800",
+        "diff": false,
+        "className": "VALVULA DE CONCENTRADO 800 PSI",
+        "x": 848,
+        "y": 1648,
+        "wires": []
+    },
+    {
+        "id": "70f27e5f337faf91",
+        "type": "ui_gauge",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 2,
+        "width": 6,
+        "height": 5,
+        "gtype": "gage",
+        "title": "Presión Entrada",
+        "label": "PSI",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "0",
+        "seg2": "800",
+        "diff": false,
+        "className": "",
+        "x": 768,
+        "y": 1760,
+        "wires": []
+    },
+    {
+        "id": "dec245eccf0f90ed",
+        "type": "comment",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "INDICADORES",
+        "info": "",
+        "x": 1088,
+        "y": 1776,
+        "wires": []
+    },
+    {
+        "id": "2df553a9b3696179",
+        "type": "ui_gauge",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "group": "54bca8b9f7eaae3d",
+        "order": 1,
+        "width": 9,
+        "height": 5,
+        "gtype": "wave",
+        "title": "",
+        "label": "",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "36000",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 1102,
+        "y": 2656,
+        "wires": []
+    },
+    {
+        "id": "ad7e20829d413305",
+        "type": "ui_gauge",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 3,
+        "width": 6,
+        "height": 5,
+        "gtype": "gage",
+        "title": "TDS",
+        "label": "PPM",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "700",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 782,
+        "y": 2000,
+        "wires": []
+    },
+    {
+        "id": "46b076b331d95ee8",
+        "type": "comment",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "NIVEL ESTANQUE",
+        "info": "",
+        "x": 1322,
+        "y": 2800,
+        "wires": []
+    },
+    {
+        "id": "0d0cf5998fb9c1c0",
+        "type": "ui_led",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "order": 2,
+        "group": "2e37d4ce11acde62",
+        "width": 0,
+        "height": 0,
+        "label": "ALTO",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "ALTO",
+        "x": 314,
+        "y": 2448,
+        "wires": []
+    },
+    {
+        "id": "53e923be9628b1eb",
+        "type": "ui_led",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "order": 3,
+        "group": "2e37d4ce11acde62",
+        "width": 0,
+        "height": 0,
+        "label": "MEDIO",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "MEDIO",
+        "x": 316,
+        "y": 2592,
+        "wires": []
+    },
+    {
+        "id": "c44c8aa5375b450e",
+        "type": "ui_led",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "order": 4,
+        "group": "2e37d4ce11acde62",
+        "width": 0,
+        "height": 0,
+        "label": "BAJO",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "BAJO",
+        "x": 370,
+        "y": 2768,
+        "wires": []
+    },
+    {
+        "id": "71e20305c3a58ec9",
+        "type": "ui_led",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "order": 1,
+        "group": "2e37d4ce11acde62",
+        "width": 0,
+        "height": 0,
+        "label": "ALARMA REBALSE",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#dfe208",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "A.REVALSE",
+        "x": 362,
+        "y": 2240,
+        "wires": []
+    },
+    {
+        "id": "5494a0d2db169de9",
+        "type": "ui_led",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "order": 5,
+        "group": "2e37d4ce11acde62",
+        "width": 0,
+        "height": 0,
+        "label": "ALARMA NIVEL BAJO",
+        "labelPlacement": "right",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#fbdb09",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "A.NIVEL BAJO",
+        "x": 412,
+        "y": 3024,
+        "wires": []
+    },
+    {
+        "id": "3e04282bc7c829d8",
+        "type": "comment",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "VALVULA DE EMERGENCIA",
+        "info": "",
+        "x": 1224,
+        "y": 1392,
+        "wires": []
+    },
+    {
+        "id": "35b22163cabecadc",
+        "type": "ui_button",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "",
+        "group": "1906a18cbb8e95c0",
+        "order": 2,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "ON-CORTE AGUA EMERGENCIA",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 228,
+        "y": 1440,
+        "wires": [
+            [
+                "1f5a7ec2ce6c7665"
+            ]
+        ]
+    },
+    {
+        "id": "188f621ce489e0a2",
+        "type": "ui_led",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "order": 1,
+        "group": "1906a18cbb8e95c0",
+        "width": 5,
+        "height": 3,
+        "label": "",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "",
+        "x": 514,
+        "y": 1392,
+        "wires": []
+    },
+    {
+        "id": "3130f71e60784dc9",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Encender_Planta",
+        "diff": true,
+        "name": "",
+        "x": 212,
+        "y": 208,
+        "wires": [
+            [
+                "8d36b5cae8399a40",
+                "f7f79aff0e8c6c47",
+                "184274c3e63d74f8",
+                "25ab23bdc278268c",
+                "bb8da5b6b4c0880a",
+                "cfcbfdf86fc2f1da",
+                "829f01e230a119c5",
+                "353eb43962b5d8fa",
+                "85a133a50b78a14f",
+                "6c61e2f4d3de42ef"
+            ]
+        ]
+    },
+    {
+        "id": "ad03d7d68cd642ad",
+        "type": "ui_button",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "",
+        "group": "e6c39414c5b3f955",
+        "order": 2,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "ON",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 462,
+        "y": 640,
+        "wires": [
+            [
+                "e99a47600e250e8a"
+            ]
+        ]
+    },
+    {
+        "id": "e99a47600e250e8a",
+        "type": "s7 out",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "endpoint": "24907a883939d887",
+        "variable": "Encender_Planta",
+        "name": "",
+        "x": 1290,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "2d27b12a4240de75",
+        "type": "ui_button",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "",
+        "group": "e6c39414c5b3f955",
+        "order": 3,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "OFF",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 462,
+        "y": 688,
+        "wires": [
+            [
+                "e99a47600e250e8a"
+            ]
+        ]
+    },
+    {
+        "id": "a8e45e7341438974",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Bomba_Agua_Salada",
+        "diff": true,
+        "name": "",
+        "x": 188,
+        "y": 976,
+        "wires": [
+            [
+                "af57796eaa69c254",
+                "9e832490ddc67573",
+                "80f87c9f5269bcb9"
+            ]
+        ]
+    },
+    {
+        "id": "39c3ce27e39ec20a",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Sensor_Bomba _Alta_Presión",
+        "diff": true,
+        "name": "",
+        "x": 216,
+        "y": 1040,
+        "wires": [
+            [
+                "fc42ebeafd76e894",
+                "74ae41e66fedb3d7"
+            ]
+        ]
+    },
+    {
+        "id": "c9c97d5a0c27176e",
+        "type": "comment",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "ENCENDIDO",
+        "info": "",
+        "x": 1274,
+        "y": 352,
+        "wires": []
+    },
+    {
+        "id": "3141deb7838ee815",
+        "type": "ui_button",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "",
+        "group": "1906a18cbb8e95c0",
+        "order": 3,
+        "width": 5,
+        "height": 1,
+        "passthru": false,
+        "label": "OFF-CORTE AGUA EMERGENCIA",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "topic": "topic",
+        "topicType": "msg",
+        "x": 224,
+        "y": 1488,
+        "wires": [
+            [
+                "1f5a7ec2ce6c7665"
+            ]
+        ]
+    },
+    {
+        "id": "d4683c683701ddab",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Válvula_de_Emergencia",
+        "diff": true,
+        "name": "Vávula de emergencia",
+        "x": 188,
+        "y": 1392,
+        "wires": [
+            [
+                "188f621ce489e0a2",
+                "a6455003a7d285ad",
+                "3e0ab4da5c48d0a0",
+                "146d17dfb103858a",
+                "d159e979cc7a616b",
+                "6c61e2f4d3de42ef"
+            ]
+        ]
+    },
+    {
+        "id": "1f5a7ec2ce6c7665",
+        "type": "s7 out",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "endpoint": "24907a883939d887",
+        "variable": "Válvula_de_Emergencia",
+        "name": "Válvula de emergencia",
+        "x": 552,
+        "y": 1456,
+        "wires": []
+    },
+    {
+        "id": "a50ca50466112514",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Nivel_Estanque",
+        "diff": true,
+        "name": "",
+        "x": 828,
+        "y": 2656,
+        "wires": [
+            [
+                "2df553a9b3696179",
+                "a6c1f4b94be7bfbb",
+                "235fc0ab943c7624",
+                "792cfeeaaccf8a7e"
+            ]
+        ]
+    },
+    {
+        "id": "35e06cb89b146ece",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Alarma_Revalse",
+        "diff": true,
+        "name": "",
+        "x": 160,
+        "y": 2224,
+        "wires": [
+            [
+                "71e20305c3a58ec9",
+                "1dcf96bcc2e6524e",
+                "ab86e5642eaad4fc",
+                "4a8cd2c7186e172a",
+                "ab99ad1df737ed72",
+                "b170e715934beb16"
+            ]
+        ]
+    },
+    {
+        "id": "1c4311b8b372666f",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Nivel_Alto",
+        "diff": true,
+        "name": "",
+        "x": 144,
+        "y": 2448,
+        "wires": [
+            [
+                "0d0cf5998fb9c1c0",
+                "11336fcc991880e7",
+                "47881557d7b10ee1",
+                "b76758aa33470f61"
+            ]
+        ]
+    },
+    {
+        "id": "d61914575222f26f",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Nivel_Medio",
+        "diff": true,
+        "name": "",
+        "x": 146,
+        "y": 2592,
+        "wires": [
+            [
+                "53e923be9628b1eb",
+                "7b3083d4991a685b",
+                "671ff21608c4f129"
+            ]
+        ]
+    },
+    {
+        "id": "b952084e8c40bf3c",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Nivel_Bajo",
+        "diff": true,
+        "name": "",
+        "x": 132,
+        "y": 2752,
+        "wires": [
+            [
+                "c44c8aa5375b450e",
+                "b8c9f07fb8e697af",
+                "7bd0e0481382da46",
+                "de0b140c86aeecf4",
+                "053d0069be7b4522"
+            ]
+        ]
+    },
+    {
+        "id": "f0f583c6aa092067",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Alarma_NIvel_Bajo",
+        "diff": true,
+        "name": "",
+        "x": 166,
+        "y": 3024,
+        "wires": [
+            [
+                "5494a0d2db169de9",
+                "ef05827f0b14e03e",
+                "1cbcd73e0d4c5dab",
+                "3810c1a2cc854a04",
+                "a5317729a70a731a",
+                "2151ce6bf4e19217"
+            ]
+        ]
+    },
+    {
+        "id": "72a4f9c844e57a7d",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Válvula_de_concentrada_hasta_optener_800_PSI",
+        "diff": true,
+        "name": "Válvula de concentrado hasta optener 800 PSI",
+        "x": 250,
+        "y": 1648,
+        "wires": [
+            [
+                "1cad0cac2ff9e33b"
+            ]
+        ]
+    },
+    {
+        "id": "ec9a2cde34641762",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Presion_Entrada_Aproximada_40-50_PSI",
+        "diff": true,
+        "name": "Presión de entrada aproximada de 40 a 50 PSI",
+        "x": 260,
+        "y": 1776,
+        "wires": [
+            [
+                "375f15bbb9101fba",
+                "7f08aaa8e6f9905a",
+                "dd9b72cd32f88cb9"
+            ]
+        ]
+    },
+    {
+        "id": "f76d4d345913945c",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Sensor_TDS_funcionando_menor_a_250_PPM_en_800_PSI",
+        "diff": true,
+        "name": "",
+        "x": 316,
+        "y": 2000,
+        "wires": [
+            [
+                "bd9423fda59eb289",
+                "b112097ba0152fc8"
+            ]
+        ]
+    },
+    {
+        "id": "375f15bbb9101fba",
+        "type": "range",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "minin": "0",
+        "maxin": "4200",
+        "minout": "0",
+        "maxout": "100",
+        "action": "roll",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 548,
+        "y": 1760,
+        "wires": [
+            [
+                "70f27e5f337faf91",
+                "9dcaca769278f923"
+            ]
+        ]
+    },
+    {
+        "id": "1cad0cac2ff9e33b",
+        "type": "range",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "minin": "0",
+        "maxin": "3000",
+        "minout": "0",
+        "maxout": "1200",
+        "action": "roll",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 556,
+        "y": 1648,
+        "wires": [
+            [
+                "d7a620549d64342e",
+                "9223bfae16115ff0"
+            ]
+        ]
+    },
+    {
+        "id": "bd9423fda59eb289",
+        "type": "range",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "minin": "0",
+        "maxin": "3000",
+        "minout": "0",
+        "maxout": "250",
+        "action": "roll",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 628,
+        "y": 2000,
+        "wires": [
+            [
+                "ad7e20829d413305",
+                "4cb40ce5bc703248"
+            ]
+        ]
+    },
+    {
+        "id": "1dcf96bcc2e6524e",
+        "type": "ui_toast",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "position": "top right",
+        "displayTime": "2",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "Alarma de Rebalse",
+        "name": "",
+        "x": 574,
+        "y": 2240,
+        "wires": []
+    },
+    {
+        "id": "ef05827f0b14e03e",
+        "type": "ui_toast",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "position": "top right",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "Cancel",
+        "raw": false,
+        "className": "",
+        "topic": "Alarma Sin Agua",
+        "name": "",
+        "x": 610,
+        "y": 3024,
+        "wires": []
+    },
+    {
+        "id": "441164144c17e8a9",
+        "type": "ui_toast",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "position": "top left",
+        "displayTime": "3",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "Planta Encendida",
+        "name": "",
+        "x": 886,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "f7f79aff0e8c6c47",
+        "type": "switch",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "false"
+            },
+            {
+                "t": "true"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 598,
+        "y": 240,
+        "wires": [
+            [
+                "c452a9261a3da37e"
+            ],
+            [
+                "441164144c17e8a9"
+            ]
+        ]
+    },
+    {
+        "id": "c452a9261a3da37e",
+        "type": "ui_toast",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "position": "top left",
+        "displayTime": "2",
+        "highlight": "",
+        "sendall": true,
+        "outputs": 0,
+        "ok": "OK",
+        "cancel": "",
+        "raw": false,
+        "className": "",
+        "topic": "Planta Apagada",
+        "name": "",
+        "x": 874,
+        "y": 192,
+        "wires": []
+    },
+    {
+        "id": "17d85a7c6cc7be23",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "32489366075ab2e1",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Válvula_de_concentrada_hasta_optener_800_PSI",
+        "diff": false,
+        "name": "",
+        "x": 258,
+        "y": 3200,
+        "wires": [
+            [
+                "abb854f737013e54",
+                "14bc7d65293b1199"
+            ]
+        ]
+    },
+    {
+        "id": "abb854f737013e54",
+        "type": "range",
+        "z": "e0590eab702f52a7",
+        "g": "32489366075ab2e1",
+        "minin": "0",
+        "maxin": "3000",
+        "minout": "0",
+        "maxout": "1000",
+        "action": "roll",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 580,
+        "y": 3200,
+        "wires": [
+            [
+                "5927891a15ae016a"
+            ]
+        ]
+    },
+    {
+        "id": "2d72d2c2d16b6aa2",
+        "type": "comment",
+        "z": "e0590eab702f52a7",
+        "g": "32489366075ab2e1",
+        "name": "GRAFICO DE CONCENTRADO",
+        "info": "",
+        "x": 1106,
+        "y": 3248,
+        "wires": []
+    },
+    {
+        "id": "ba298b1e4c2abcbc",
+        "type": "range",
+        "z": "e0590eab702f52a7",
+        "g": "b8f9b4bf1093e6ff",
+        "minin": "0",
+        "maxin": "42000",
+        "minout": "0",
+        "maxout": "6",
+        "action": "roll",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 354,
+        "y": 3456,
+        "wires": [
+            [
+                "c7daa574391b278f",
+                "bac5199148b92a48",
+                "1da25cb7570be82d",
+                "3279d9e3e0fed931"
+            ]
+        ]
+    },
+    {
+        "id": "fe5355ced5807520",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "b8f9b4bf1093e6ff",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Nivel_Estanque",
+        "diff": true,
+        "name": "",
+        "x": 148,
+        "y": 3456,
+        "wires": [
+            [
+                "ba298b1e4c2abcbc"
+            ]
+        ]
+    },
+    {
+        "id": "3279d9e3e0fed931",
+        "type": "ui_gauge",
+        "z": "e0590eab702f52a7",
+        "g": "b8f9b4bf1093e6ff",
+        "name": "",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 5,
+        "width": 4,
+        "height": 5,
+        "gtype": "donut",
+        "title": "LPM",
+        "label": "PER",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "8",
+        "colors": [
+            "#19c219",
+            "#e6e600",
+            "#2aa238"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 738,
+        "y": 3456,
+        "wires": []
+    },
+    {
+        "id": "496f1b10379fc0f7",
+        "type": "comment",
+        "z": "e0590eab702f52a7",
+        "g": "b8f9b4bf1093e6ff",
+        "name": "LPM",
+        "info": "",
+        "x": 1190,
+        "y": 3504,
+        "wires": []
+    },
+    {
+        "id": "ca9a6d0a1fa74cec",
+        "type": "ui_gauge",
+        "z": "e0590eab702f52a7",
+        "g": "b8f9b4bf1093e6ff",
+        "name": "",
+        "group": "8ef9e5a48dd6ff4a",
+        "order": 6,
+        "width": 4,
+        "height": 5,
+        "gtype": "donut",
+        "title": " Cloro 5% ",
+        "label": " (ml/h) ",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "15",
+        "colors": [
+            "#19c219",
+            "#e6e600",
+            "#2aa238"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 920,
+        "y": 3584,
+        "wires": []
+    },
+    {
+        "id": "1da25cb7570be82d",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "b8f9b4bf1093e6ff",
+        "name": "function 1",
+        "func": "let dosificacion = 0;\nlet flujo = msg.payload;\n\nif (flujo <= 0.5) dosificacion = 0;\nelse if (flujo <= 1) dosificacion = 1;\nelse if (flujo <= 1.5) dosificacion = 2;\nelse if (flujo <= 2) dosificacion = 3;\nelse if (flujo <= 2.5) dosificacion = 4;\nelse if (flujo <= 3) dosificacion = 5;\nelse if (flujo <= 3.5) dosificacion = 7;\nelse if (flujo <= 4) dosificacion = 8;\nelse if (flujo <= 4.5) dosificacion = 9;\nelse if (flujo <= 5) dosificacion = 10;\nelse if (flujo <= 5.5) dosificacion = 11;\nelse if (flujo <= 6) dosificacion = 12;\nelse dosificacion = 14;\n\n// Envía solo dosificación al dashboard gauge\nmsg.payload = dosificacion;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 696,
+        "y": 3584,
+        "wires": [
+            [
+                "ca9a6d0a1fa74cec"
+            ]
+        ]
+    },
+    {
+        "id": "e5f3a1c86808d173",
+        "type": "ubidots_in",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "tier": "business",
+        "name": "Ubidots in",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "device_label": "unab",
+        "tls_checkbox_in": true,
+        "custom_topic_checkbox": false,
+        "label_variable_1": "encender_planta",
+        "label_variable_2": "",
+        "label_variable_3": "",
+        "label_variable_4": "",
+        "label_variable_5": "",
+        "label_variable_6": "",
+        "label_variable_7": "",
+        "label_variable_8": "",
+        "label_variable_9": "",
+        "label_variable_10": "",
+        "checkbox_variable_1_last_value": true,
+        "checkbox_variable_2_last_value": true,
+        "checkbox_variable_3_last_value": true,
+        "checkbox_variable_4_last_value": true,
+        "checkbox_variable_5_last_value": true,
+        "checkbox_variable_6_last_value": true,
+        "checkbox_variable_7_last_value": true,
+        "checkbox_variable_8_last_value": true,
+        "checkbox_variable_9_last_value": true,
+        "checkbox_variable_10_last_value": true,
+        "x": 712,
+        "y": 720,
+        "wires": [
+            [
+                "ea4c792684f6096c"
+            ]
+        ]
+    },
+    {
+        "id": "ea4c792684f6096c",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "function 3",
+        "func": "var value=msg.payload.encender_planta.value;\nmsg.payload=value;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 856,
+        "y": 720,
+        "wires": [
+            [
+                "44d9b3abb63d0c7f"
+            ]
+        ]
+    },
+    {
+        "id": "d3cecf531739e032",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 618,
+        "y": 528,
+        "wires": []
+    },
+    {
+        "id": "184274c3e63d74f8",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 212,
+        "y": 528,
+        "wires": [
+            [
+                "e0bce8599bccbc7a"
+            ]
+        ]
+    },
+    {
+        "id": "e0bce8599bccbc7a",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Encender_Planta\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 424,
+        "y": 528,
+        "wires": [
+            [
+                "d3cecf531739e032"
+            ]
+        ]
+    },
+    {
+        "id": "95c012c27046bddf",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "Declarar\"Encender_Planta\"",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 476,
+        "y": 736,
+        "wires": []
+    },
+    {
+        "id": "ab4e7e6d74d5c718",
+        "type": "inject",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "Declarar variable",
+        "payload": "{\"Encender_Planta\":1}",
+        "payloadType": "json",
+        "x": 208,
+        "y": 736,
+        "wires": [
+            [
+                "95c012c27046bddf"
+            ]
+        ]
+    },
+    {
+        "id": "60f83a417d4f1299",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 998,
+        "y": 944,
+        "wires": []
+    },
+    {
+        "id": "9e832490ddc67573",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 512,
+        "y": 944,
+        "wires": [
+            [
+                "d9909b8ab94fee7c"
+            ]
+        ]
+    },
+    {
+        "id": "d9909b8ab94fee7c",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Bomba_Agua_Salada\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 772,
+        "y": 944,
+        "wires": [
+            [
+                "60f83a417d4f1299"
+            ]
+        ]
+    },
+    {
+        "id": "0b396c4263a5e6c3",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 1014,
+        "y": 1040,
+        "wires": []
+    },
+    {
+        "id": "74ae41e66fedb3d7",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 400,
+        "y": 1104,
+        "wires": [
+            [
+                "cc7f7feaa319b5a3"
+            ]
+        ]
+    },
+    {
+        "id": "cc7f7feaa319b5a3",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Sensor_Bomba_Alta_Presión\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 676,
+        "y": 1104,
+        "wires": [
+            [
+                "0b396c4263a5e6c3"
+            ]
+        ]
+    },
+    {
+        "id": "a6455003a7d285ad",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 500,
+        "y": 1344,
+        "wires": [
+            [
+                "05ac6cf7dd0b70b2"
+            ]
+        ]
+    },
+    {
+        "id": "05ac6cf7dd0b70b2",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Valvula_de_Emergencia\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 760,
+        "y": 1344,
+        "wires": [
+            [
+                "1a98de4a67cd1eba"
+            ]
+        ]
+    },
+    {
+        "id": "1a98de4a67cd1eba",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 1018,
+        "y": 1344,
+        "wires": []
+    },
+    {
+        "id": "4cb40ce5bc703248",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 608,
+        "y": 2048,
+        "wires": [
+            [
+                "15f2ea1c112893c3"
+            ]
+        ]
+    },
+    {
+        "id": "15f2ea1c112893c3",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Sensor_TDS_funcionando_menor_a_250_PPM_en_800_PSI\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 2048,
+        "wires": [
+            [
+                "cea3ee490b63420f"
+            ]
+        ]
+    },
+    {
+        "id": "cea3ee490b63420f",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 1018,
+        "y": 2048,
+        "wires": []
+    },
+    {
+        "id": "9223bfae16115ff0",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 528,
+        "y": 1696,
+        "wires": [
+            [
+                "6e8f71a1302e2f46"
+            ]
+        ]
+    },
+    {
+        "id": "6e8f71a1302e2f46",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Válvula_de_concentrada_hasta_optener_800_PSI\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 740,
+        "y": 1696,
+        "wires": [
+            [
+                "82f982a156f680d8"
+            ]
+        ]
+    },
+    {
+        "id": "82f982a156f680d8",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 938,
+        "y": 1696,
+        "wires": []
+    },
+    {
+        "id": "9dcaca769278f923",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 480,
+        "y": 1872,
+        "wires": [
+            [
+                "a7999bbdf5436fb1"
+            ]
+        ]
+    },
+    {
+        "id": "a7999bbdf5436fb1",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Presion_Entrada_Aproximada_40-50_PSI\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 732,
+        "y": 1888,
+        "wires": [
+            [
+                "582b578ce061d9a7"
+            ]
+        ]
+    },
+    {
+        "id": "582b578ce061d9a7",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 950,
+        "y": 1888,
+        "wires": []
+    },
+    {
+        "id": "ab86e5642eaad4fc",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 184,
+        "y": 2304,
+        "wires": [
+            [
+                "baeef07e7fd78361"
+            ]
+        ]
+    },
+    {
+        "id": "baeef07e7fd78361",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Alarma_Revalse\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 396,
+        "y": 2304,
+        "wires": [
+            [
+                "8ef32fbc7ecc75ab"
+            ]
+        ]
+    },
+    {
+        "id": "8ef32fbc7ecc75ab",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 594,
+        "y": 2304,
+        "wires": []
+    },
+    {
+        "id": "11336fcc991880e7",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 204,
+        "y": 2512,
+        "wires": [
+            [
+                "841c89121d191d9c"
+            ]
+        ]
+    },
+    {
+        "id": "841c89121d191d9c",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Nivel_Alto\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 416,
+        "y": 2512,
+        "wires": [
+            [
+                "1dee14e9351ac49e"
+            ]
+        ]
+    },
+    {
+        "id": "1dee14e9351ac49e",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 614,
+        "y": 2512,
+        "wires": []
+    },
+    {
+        "id": "7b3083d4991a685b",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 172,
+        "y": 2656,
+        "wires": [
+            [
+                "7912b1b9b2f9b3c4"
+            ]
+        ]
+    },
+    {
+        "id": "7912b1b9b2f9b3c4",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Nivel_Medio\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 384,
+        "y": 2656,
+        "wires": [
+            [
+                "a240ad8a7d559fc3"
+            ]
+        ]
+    },
+    {
+        "id": "a240ad8a7d559fc3",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 582,
+        "y": 2656,
+        "wires": []
+    },
+    {
+        "id": "b8c9f07fb8e697af",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 172,
+        "y": 2816,
+        "wires": [
+            [
+                "6628bacff5dda25b"
+            ]
+        ]
+    },
+    {
+        "id": "6628bacff5dda25b",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Nivel_Bajo\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 384,
+        "y": 2816,
+        "wires": [
+            [
+                "730a230921bffb5a"
+            ]
+        ]
+    },
+    {
+        "id": "730a230921bffb5a",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 582,
+        "y": 2816,
+        "wires": []
+    },
+    {
+        "id": "1cbcd73e0d4c5dab",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 188,
+        "y": 3104,
+        "wires": [
+            [
+                "045dc6f08e9d1c9a"
+            ]
+        ]
+    },
+    {
+        "id": "045dc6f08e9d1c9a",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Alarma_NIvel_Bajo\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 400,
+        "y": 3104,
+        "wires": [
+            [
+                "e73609ac22b1282f"
+            ]
+        ]
+    },
+    {
+        "id": "e73609ac22b1282f",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 598,
+        "y": 3104,
+        "wires": []
+    },
+    {
+        "id": "a6c1f4b94be7bfbb",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 924,
+        "y": 2736,
+        "wires": [
+            [
+                "68c25ebb331af22f"
+            ]
+        ]
+    },
+    {
+        "id": "68c25ebb331af22f",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Nivel_Estanque\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 972,
+        "y": 2816,
+        "wires": [
+            [
+                "2d8a9d9434da448d"
+            ]
+        ]
+    },
+    {
+        "id": "2d8a9d9434da448d",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 1130,
+        "y": 2880,
+        "wires": []
+    },
+    {
+        "id": "c7daa574391b278f",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "b8f9b4bf1093e6ff",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "1",
+                "tot": "str"
+            },
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "false",
+                "fromt": "bool",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 628,
+        "y": 3504,
+        "wires": [
+            [
+                "d6e6ce057b9e7994"
+            ]
+        ]
+    },
+    {
+        "id": "d6e6ce057b9e7994",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "b8f9b4bf1093e6ff",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"Nivel_de_Estanque\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 840,
+        "y": 3504,
+        "wires": [
+            [
+                "cfbca9faa241b65d"
+            ]
+        ]
+    },
+    {
+        "id": "cfbca9faa241b65d",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "b8f9b4bf1093e6ff",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 1038,
+        "y": 3504,
+        "wires": []
+    },
+    {
+        "id": "569018e000e0272b",
+        "type": "comment",
+        "z": "e0590eab702f52a7",
+        "g": "034f02a40b52a651",
+        "name": "Base de Datos",
+        "info": "",
+        "x": 1168,
+        "y": 3680,
+        "wires": []
+    },
+    {
+        "id": "14bc7d65293b1199",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "32489366075ab2e1",
+        "name": "function 4",
+        "func": "if(msg.payload==1){\n    msg.payload=1;\n    return msg;\n}else{\n    msg.payload=0;\n     return msg;\n\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 356,
+        "y": 3280,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5927891a15ae016a",
+        "type": "ui_chart",
+        "z": "e0590eab702f52a7",
+        "g": "32489366075ab2e1",
+        "name": "",
+        "group": "3af5289bcdfbfe5c",
+        "order": 1,
+        "width": 14,
+        "height": 11,
+        "label": "Válvula de Concentrado - 600- 800 PSI ",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm DD/MM/YY",
+        "interpolate": "step",
+        "nodata": "",
+        "dot": false,
+        "ymin": "0",
+        "ymax": "900",
+        "removeOlder": "1",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": true,
+        "colors": [
+            "#1f77b4",
+            "#7aa9e6",
+            "#ff7f0e",
+            "#2a9d2a",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 720,
+        "y": 3296,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "235fc0ab943c7624",
+        "type": "range",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "minin": "0",
+        "maxin": "36000",
+        "minout": "0",
+        "maxout": "36000",
+        "action": "roll",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 872,
+        "y": 2528,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "792cfeeaaccf8a7e",
+        "type": "ui_chart",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "group": "cda164dfc09c19c3",
+        "order": 1,
+        "width": 14,
+        "height": 11,
+        "label": "Nivel de Estanque",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm DD/MM/YY",
+        "interpolate": "step",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "40000",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": "40000",
+        "useOneColor": false,
+        "useUTC": true,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1154,
+        "y": 2496,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3810c1a2cc854a04",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 6",
+        "func": "\nif ( msg.payload == 1){\nmsg.payload = 'Alarma nivel bajo';\nreturn msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 548,
+        "y": 2976,
+        "wires": [
+            [
+                "72ea1dc0db27d65d"
+            ]
+        ]
+    },
+    {
+        "id": "72ea1dc0db27d65d",
+        "type": "http request",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf-M4CZe55TEvoIUhWfIiwbhOo_sg516tH4Yi4lugnJWwIRHQ/formResponse?entry.2041096400={{payload}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 746,
+        "y": 2976,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4a8cd2c7186e172a",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 7",
+        "func": "\nif ( msg.payload == 1){\nmsg.payload = 'Alarma Revalse';\nreturn msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 352,
+        "y": 2192,
+        "wires": [
+            [
+                "4593353d4374977b"
+            ]
+        ]
+    },
+    {
+        "id": "4593353d4374977b",
+        "type": "http request",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf-M4CZe55TEvoIUhWfIiwbhOo_sg516tH4Yi4lugnJWwIRHQ/formResponse?entry.2041096400={{payload}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 518,
+        "y": 2192,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "3e0ab4da5c48d0a0",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "function 8",
+        "func": "\nif ( msg.payload == 1){\nmsg.payload = 'Vávula de Emergencia Activada';\nreturn msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 520,
+        "y": 1296,
+        "wires": [
+            [
+                "e6e599b639f0dfe7"
+            ]
+        ]
+    },
+    {
+        "id": "e6e599b639f0dfe7",
+        "type": "http request",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf-M4CZe55TEvoIUhWfIiwbhOo_sg516tH4Yi4lugnJWwIRHQ/formResponse?entry.2041096400={{payload}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 730,
+        "y": 1296,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "25ab23bdc278268c",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "function 9",
+        "func": "\nif ( msg.payload == 1){\nmsg.payload = 'Planta encendida';\nreturn msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 396,
+        "y": 288,
+        "wires": [
+            [
+                "c115c25ae6da5254"
+            ]
+        ]
+    },
+    {
+        "id": "c115c25ae6da5254",
+        "type": "http request",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf-M4CZe55TEvoIUhWfIiwbhOo_sg516tH4Yi4lugnJWwIRHQ/formResponse?entry.2041096400={{payload}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 606,
+        "y": 288,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "bb8da5b6b4c0880a",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "function 10",
+        "func": "\nif ( msg.payload == 0){\nmsg.payload = 'Planta apagada';\nreturn msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 352,
+        "wires": [
+            [
+                "3163d90de6815eed"
+            ]
+        ]
+    },
+    {
+        "id": "146d17dfb103858a",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "function 11",
+        "func": "\nif ( msg.payload == 0){\nmsg.payload = 'Vávula de Emergencia Desactivada';\nreturn msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 522,
+        "y": 1248,
+        "wires": [
+            [
+                "b642fe4a1a1e6a24"
+            ]
+        ]
+    },
+    {
+        "id": "b642fe4a1a1e6a24",
+        "type": "http request",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf-M4CZe55TEvoIUhWfIiwbhOo_sg516tH4Yi4lugnJWwIRHQ/formResponse?entry.2041096400={{payload}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 714,
+        "y": 1248,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5020d89ffe1b0e04",
+        "type": "range",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "minin": "0",
+        "maxin": "6",
+        "minout": "5",
+        "maxout": "10",
+        "action": "scale",
+        "round": false,
+        "property": "payload",
+        "name": "",
+        "x": 418,
+        "y": 896,
+        "wires": [
+            [
+                "640bfae85a650e21"
+            ]
+        ]
+    },
+    {
+        "id": "640bfae85a650e21",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "name": "function 14",
+        "func": "if (msg.payload == 10) {\n    msg.payload = 'Consumo alto de bomba agua mar';\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 570,
+        "y": 896,
+        "wires": [
+            [
+                "a77f8bef92e2f396"
+            ]
+        ]
+    },
+    {
+        "id": "a77f8bef92e2f396",
+        "type": "http request",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf-M4CZe55TEvoIUhWfIiwbhOo_sg516tH4Yi4lugnJWwIRHQ/formResponse?entry.2041096400={{payload}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 730,
+        "y": 896,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "80f87c9f5269bcb9",
+        "type": "controltimer",
+        "z": "e0590eab702f52a7",
+        "g": "553c3308f4d5fb6c",
+        "name": "",
+        "timerType": "loop",
+        "timerDurationUnit": "second",
+        "timerDurationType": "num",
+        "timerDuration": 5,
+        "timerLoopTimeoutUnit": "second",
+        "timerLoopTimeoutType": "num",
+        "timerLoopTimeout": 0,
+        "loopTimeoutMessageType": "str",
+        "loopTimeoutMessage": "LOOP_TIMEOUT",
+        "timerMaxLoopIterationsType": "num",
+        "timerMaxLoopIterations": 0,
+        "loopMaxIterationsMessageType": "str",
+        "loopMaxIterationsMessage": "MAX_LOOP_ITERATIONS",
+        "isRunningTimerProgressVisible": true,
+        "outputReceivedMessageOnTimerTrigger": true,
+        "outputReceivedMessageOnTimerHalt": false,
+        "startTimerOnReceivalOfUnknownMessage": false,
+        "resetTimerOnReceivalOfUnknownMessage": false,
+        "resetTimerOnReceivalOfStartAction": false,
+        "continueTimerOnReceivalOfStartAction": false,
+        "isDebugModeEnabled": false,
+        "timerTriggeredMessageType": "str",
+        "timerTriggeredMessage": "TIMER_TRIGGERED",
+        "timerHaltedMessageType": "str",
+        "timerHaltedMessage": "TIMER_HALTED",
+        "isStartActionEnabled": true,
+        "isStopActionEnabled": true,
+        "isResetActionEnabled": true,
+        "isPauseActionEnabled": true,
+        "isContinueActionEnabled": true,
+        "actionPropertyNameType": "str",
+        "actionPropertyName": "payload",
+        "startActionNameType": "str",
+        "startActionName": "START",
+        "stopActionNameType": "str",
+        "stopActionName": "STOP",
+        "resetActionNameType": "str",
+        "resetActionName": "RESET",
+        "pauseActionNameType": "str",
+        "pauseActionName": "PAUSE",
+        "continueActionNameType": "str",
+        "continueActionName": "CONTINUE",
+        "x": 240,
+        "y": 896,
+        "wires": [
+            [
+                "5020d89ffe1b0e04"
+            ],
+            []
+        ]
+    },
+    {
+        "id": "22de92fd6fee438f",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "034f02a40b52a651",
+        "name": "function 15",
+        "func": "if (msg.payload == 10) {\n    msg.payload = 'Cosumo Alto de Bomba Agua Mar';\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 746,
+        "y": 3680,
+        "wires": [
+            [
+                "85edfa19c3c96d8a"
+            ]
+        ]
+    },
+    {
+        "id": "85edfa19c3c96d8a",
+        "type": "http request",
+        "z": "e0590eab702f52a7",
+        "g": "034f02a40b52a651",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf-M4CZe55TEvoIUhWfIiwbhOo_sg516tH4Yi4lugnJWwIRHQ/formResponse?entry.2041096400={{payload}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 950,
+        "y": 3680,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1612cf32b8f19a3d",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "034f02a40b52a651",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Bomba_Agua_Salada",
+        "diff": true,
+        "name": "",
+        "x": 172,
+        "y": 3680,
+        "wires": [
+            [
+                "cf4932fdeb47e3b8"
+            ]
+        ]
+    },
+    {
+        "id": "cf4932fdeb47e3b8",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "034f02a40b52a651",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "true",
+                "fromt": "bool",
+                "to": "10",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 396,
+        "y": 3680,
+        "wires": [
+            [
+                "8b2990f72fd93a4c"
+            ]
+        ]
+    },
+    {
+        "id": "8b2990f72fd93a4c",
+        "type": "switch",
+        "z": "e0590eab702f52a7",
+        "g": "034f02a40b52a651",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "10",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 1,
+        "x": 590,
+        "y": 3680,
+        "wires": [
+            [
+                "22de92fd6fee438f"
+            ]
+        ]
+    },
+    {
+        "id": "219040d3653a225a",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "function 16",
+        "func": "if (msg.payload >= 160) {\n    msg.payload = ' TDS dendro del rango  de 250 PPM';\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 858,
+        "y": 1952,
+        "wires": [
+            [
+                "22a02ee92b4290e4"
+            ]
+        ]
+    },
+    {
+        "id": "22a02ee92b4290e4",
+        "type": "http request",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf-M4CZe55TEvoIUhWfIiwbhOo_sg516tH4Yi4lugnJWwIRHQ/formResponse?entry.2041096400={{payload}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1030,
+        "y": 1952,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b112097ba0152fc8",
+        "type": "range",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "minin": "0",
+        "maxin": "2000",
+        "minout": "0",
+        "maxout": "167",
+        "action": "roll",
+        "round": true,
+        "property": "payload",
+        "name": "",
+        "x": 684,
+        "y": 1952,
+        "wires": [
+            [
+                "219040d3653a225a"
+            ]
+        ]
+    },
+    {
+        "id": "3163d90de6815eed",
+        "type": "http request",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf-M4CZe55TEvoIUhWfIiwbhOo_sg516tH4Yi4lugnJWwIRHQ/formResponse?entry.2041096400={{payload}}",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 620,
+        "y": 352,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f9bbb702699b3429",
+        "type": "telegram sender",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "Enviar Datos",
+        "bot": "2f6b4f063002ab45",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 682,
+        "y": 416,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "cfcbfdf86fc2f1da",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "function 20",
+        "func": "if (msg.payload == 1 ) {\n    msg.payload={\n        \"content\":'Planta encendida',\n        \"type\":\"message\",\n        \"chatId\": \"1511066569\" //chatID \n    };\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 382,
+        "y": 416,
+        "wires": [
+            [
+                "f9bbb702699b3429"
+            ]
+        ]
+    },
+    {
+        "id": "5be81c4c3446ed98",
+        "type": "telegram sender",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "Enviar Datos",
+        "bot": "2f6b4f063002ab45",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 622,
+        "y": 464,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "829f01e230a119c5",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "function 21",
+        "func": "if (msg.payload == 0 ) {\n    msg.payload={\n        \"content\":'Planta apagada',\n        \"type\":\"message\",\n        \"chatId\": \"1511066569\" //chatID \n    };\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 378,
+        "y": 464,
+        "wires": [
+            [
+                "5be81c4c3446ed98"
+            ]
+        ]
+    },
+    {
+        "id": "5f7408b87c57f5cd",
+        "type": "telegram sender",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "Enviar Datos",
+        "bot": "2f6b4f063002ab45",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 966,
+        "y": 2208,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ab99ad1df737ed72",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 22",
+        "func": "if (msg.payload == 1 ) {\n    msg.payload={\n        \"content\":'Alarma de revalse es necesario revisar plnata en estanco si no se detienen la bomba de alta presión',\n        \"type\":\"message\",\n        \"chatId\": \"1511066569\" //chatID \n    };\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 790,
+        "y": 2208,
+        "wires": [
+            [
+                "5f7408b87c57f5cd"
+            ]
+        ]
+    },
+    {
+        "id": "fa4ccff90faff053",
+        "type": "telegram sender",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "Enviar Datos",
+        "bot": "2f6b4f063002ab45",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 982,
+        "y": 3072,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a5317729a70a731a",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 23",
+        "func": "if (msg.payload == 1 ) {\n    msg.payload={\n        \"content\":'Alarma de estanque sin agua,comienzara producir en 5 segundos de los contrario por favor bajar a estanco',\n        \"type\":\"message\",\n        \"chatId\": \"1511066569\" //chatID \n    };\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 762,
+        "y": 3072,
+        "wires": [
+            [
+                "fa4ccff90faff053"
+            ]
+        ]
+    },
+    {
+        "id": "6d73867c4e717753",
+        "type": "telegram sender",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "Enviar Datos",
+        "bot": "2f6b4f063002ab45",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 1106,
+        "y": 2400,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "671ff21608c4f129",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 24",
+        "func": "if (msg.payload == 1 ) {\n    msg.payload={\n        \"content\":'Nivel medio',\n        \"type\":\"message\",\n        \"chatId\": \"1511066569\" //chatID \n    };\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 806,
+        "y": 2400,
+        "wires": [
+            [
+                "6d73867c4e717753"
+            ]
+        ]
+    },
+    {
+        "id": "47881557d7b10ee1",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 25",
+        "func": "if (msg.payload == 1 ) {\n    msg.payload={\n        \"content\":'Nivel alto',\n        \"type\":\"message\",\n        \"chatId\": \"1511066569\" //chatID \n    };\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 806,
+        "y": 2352,
+        "wires": [
+            [
+                "6d73867c4e717753"
+            ]
+        ]
+    },
+    {
+        "id": "7bd0e0481382da46",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 26",
+        "func": "if (msg.payload == 1 ) {\n    msg.payload={\n        \"content\":'Nivel bajo',\n        \"type\":\"message\",\n        \"chatId\": \"1511066569\" //chatID \n    };\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 822,
+        "y": 2464,
+        "wires": [
+            [
+                "6d73867c4e717753"
+            ]
+        ]
+    },
+    {
+        "id": "ccb37f9f9d8c515b",
+        "type": "telegram sender",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "Enviar Datos",
+        "bot": "2f6b4f063002ab45",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 966,
+        "y": 1216,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "d159e979cc7a616b",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "function 27",
+        "func": "if (msg.payload == 1 ) {\n    msg.payload={\n        \"content\":'Válvula de Emergencia Activada',\n        \"type\":\"message\",\n        \"chatId\": \"1511066569\" //chatID \n    };\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 454,
+        "y": 1200,
+        "wires": [
+            [
+                "ccb37f9f9d8c515b"
+            ]
+        ]
+    },
+    {
+        "id": "2404805a53582dcc",
+        "type": "comment",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "name": "Tabla de eventos",
+        "info": "",
+        "x": 1184,
+        "y": 3904,
+        "wires": []
+    },
+    {
+        "id": "ed65d0285344367e",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "off",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Off",
+                "fromt": "str",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 994,
+        "y": 560,
+        "wires": [
+            [
+                "e99a47600e250e8a"
+            ]
+        ]
+    },
+    {
+        "id": "b23e7c38d90c5c9c",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "on",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "On",
+                "fromt": "str",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 930,
+        "y": 608,
+        "wires": [
+            [
+                "e99a47600e250e8a"
+            ]
+        ]
+    },
+    {
+        "id": "20ca43ce1d116c66",
+        "type": "telegram receiver",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "Resibir Datos",
+        "bot": "2f6b4f063002ab45",
+        "saveDataDir": "",
+        "filterCommands": false,
+        "x": 590,
+        "y": 592,
+        "wires": [
+            [
+                "a8d444732c9e8f1c"
+            ],
+            [
+                "5007435f2f402755"
+            ]
+        ]
+    },
+    {
+        "id": "a8d444732c9e8f1c",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "function 31",
+        "func": "msg.payload = msg.originalMessage.text;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 766,
+        "y": 560,
+        "wires": [
+            [
+                "ed65d0285344367e"
+            ]
+        ]
+    },
+    {
+        "id": "5007435f2f402755",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "function 32",
+        "func": "msg.payload = msg.originalMessage.text;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 762,
+        "y": 608,
+        "wires": [
+            [
+                "b23e7c38d90c5c9c"
+            ]
+        ]
+    },
+    {
+        "id": "16f0b6ac9c2d5747",
+        "type": "trigger",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "",
+        "op1": "true",
+        "op2": "false",
+        "op1type": "bool",
+        "op2type": "bool",
+        "duration": "250",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "ms",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 1348,
+        "y": 752,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "48e11ac3e2ac171f",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "function 33",
+        "func": "if (msg.payload==0){\n    msg.payload==true;\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1194,
+        "y": 800,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "44d9b3abb63d0c7f",
+        "type": "switch",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 1026,
+        "y": 720,
+        "wires": [
+            [
+                "e99a47600e250e8a"
+            ],
+            [
+                "23faa756b0995176"
+            ]
+        ]
+    },
+    {
+        "id": "23faa756b0995176",
+        "type": "s7 out",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "endpoint": "24907a883939d887",
+        "variable": "Encender_Planta",
+        "name": "",
+        "x": 1294,
+        "y": 704,
+        "wires": []
+    },
+    {
+        "id": "575632f6da4793cf",
+        "type": "ubidots_in",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "tier": "business",
+        "name": "Ubidots in",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "device_label": "unab",
+        "tls_checkbox_in": true,
+        "custom_topic_checkbox": false,
+        "label_variable_1": "valvula_de_emergencia",
+        "label_variable_2": "",
+        "label_variable_3": "",
+        "label_variable_4": "",
+        "label_variable_5": "",
+        "label_variable_6": "",
+        "label_variable_7": "",
+        "label_variable_8": "",
+        "label_variable_9": "",
+        "label_variable_10": "",
+        "checkbox_variable_1_last_value": true,
+        "checkbox_variable_2_last_value": true,
+        "checkbox_variable_3_last_value": true,
+        "checkbox_variable_4_last_value": true,
+        "checkbox_variable_5_last_value": true,
+        "checkbox_variable_6_last_value": true,
+        "checkbox_variable_7_last_value": true,
+        "checkbox_variable_8_last_value": true,
+        "checkbox_variable_9_last_value": true,
+        "checkbox_variable_10_last_value": true,
+        "x": 148,
+        "y": 1536,
+        "wires": [
+            [
+                "029cda132fc60b82"
+            ]
+        ]
+    },
+    {
+        "id": "029cda132fc60b82",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "function 34",
+        "func": "var value=msg.payload.valvula_de_emergencia.value;\nmsg.payload=value;\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 1536,
+        "wires": [
+            [
+                "10f9ac3e8f592f33"
+            ]
+        ]
+    },
+    {
+        "id": "10f9ac3e8f592f33",
+        "type": "switch",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 462,
+        "y": 1536,
+        "wires": [
+            [
+                "1f5a7ec2ce6c7665"
+            ],
+            [
+                "985863dbdf58b100"
+            ]
+        ]
+    },
+    {
+        "id": "985863dbdf58b100",
+        "type": "s7 out",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "endpoint": "24907a883939d887",
+        "variable": "Válvula_de_Emergencia",
+        "name": "Válvula de emergencia",
+        "x": 676,
+        "y": 1536,
+        "wires": []
+    },
+    {
+        "id": "bac5199148b92a48",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "b8f9b4bf1093e6ff",
+        "name": "cambio a lenguaje json",
+        "func": "var local={\"nivel_de_estanque\":msg.payload};\nreturn {\"payload\":local};",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 656,
+        "y": 3392,
+        "wires": [
+            [
+                "e04090ab34b951b3"
+            ]
+        ]
+    },
+    {
+        "id": "e04090ab34b951b3",
+        "type": "ubidots_out",
+        "z": "e0590eab702f52a7",
+        "g": "b8f9b4bf1093e6ff",
+        "name": "",
+        "token": "BBUS-CnHZsIa3GnmrjKBaH1Mz0fQg4Vt53n",
+        "label_device": "",
+        "device_label": "unab",
+        "tier": "business",
+        "tls_checkbox": true,
+        "x": 858,
+        "y": 3392,
+        "wires": []
+    },
+    {
+        "id": "05200a7d225ef828",
+        "type": "sqlite",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "mydb": "729a62618fd7b3f0",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "DB ejemplo",
+        "x": 426,
+        "y": 3808,
+        "wires": [
+            [
+                "42027049fba75e8e"
+            ]
+        ]
+    },
+    {
+        "id": "1f610167a77820cd",
+        "type": "inject",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "CREATE TABLE datos1 (TIMESTAMP INTEGER PRIMARY KEY NOT NULL, DIA NUMERIC NOT NULL,MES NUMERIC NOT NULL,ANIO NUMERIC NOT NULL,HORA NUMERIC NOT NULL,MINUTO NUMERIC NOT NULL,SEG NUMERIC NOT NULL,VALUE TEXT NOT NULL);",
+        "payload": "",
+        "payloadType": "str",
+        "x": 146,
+        "y": 3792,
+        "wires": [
+            [
+                "05200a7d225ef828"
+            ]
+        ]
+    },
+    {
+        "id": "2d5e7332914d174b",
+        "type": "ui_template",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "group": "6abf8a692de7b9e2",
+        "name": "",
+        "order": 1,
+        "width": 28,
+        "height": 11,
+        "format": "<table style=\"width:100%; text-align:center;\" border=\"1\">\n\n\n  <tr>\n    <th>*NRO ORDEN </th> \n    <th>FECHA Y HORA</th>\n    <th>EVENTO</th> \n    \n  </tr>\n  <tr ng-repeat=\"x in msg.payload | limitTo:19\">\n \n\n    <td>{{$index + 1}}</td>\n    <td>{{msg.payload[$index].DIA}}/{{msg.payload[$index].MES}}/{{msg.payload[$index].ANIO}}    {{msg.payload[$index].HORA}}:{{msg.payload[$index].MINUTO}}:{{msg.payload[$index].SEG}}</td>\n    <td>{{msg.payload[$index].VALUE}}</td> \n    \n    \n  </tr>\n\n  \n</table>\n<table style=\"width:100%;text-align:left; \" border=\"0\">\n<tr>\n    <th></th> \n      <th> *NOTA: Se muestra el incidente mas reciente primero.</th> \n  </tr>\n</table>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 656,
+        "y": 4160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "42027049fba75e8e",
+        "type": "debug",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "name": "debug 6",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 652,
+        "y": 3824,
+        "wires": []
+    },
+    {
+        "id": "353eb43962b5d8fa",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "function 35",
+        "func": "\nif (msg.payload == 1 ) {\n\nvar newMsg = {estacion : \"Planta encendida\"}\n\nreturn  newMsg;\n\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 894,
+        "y": 336,
+        "wires": [
+            [
+                "4572cdeb6d17f60d"
+            ]
+        ]
+    },
+    {
+        "id": "4572cdeb6d17f60d",
+        "type": "link out",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "encendido",
+        "mode": "link",
+        "links": [
+            "1b3cb96953468237"
+        ],
+        "x": 1045,
+        "y": 336,
+        "wires": []
+    },
+    {
+        "id": "1b3cb96953468237",
+        "type": "link in",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "name": "link in 1",
+        "links": [
+            "4572cdeb6d17f60d",
+            "793fcf5a701f3e97",
+            "a2631981b8965ed7",
+            "a8deb53c846a9639",
+            "b8a034cf3f523711",
+            "d55fcdb9b95824df",
+            "e8d483342be87348"
+        ],
+        "x": 111,
+        "y": 3856,
+        "wires": [
+            [
+                "691fd03691767881"
+            ]
+        ]
+    },
+    {
+        "id": "691fd03691767881",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "name": "function 36",
+        "func": "var LugarDeIncidente = msg.estacion;\n\n// Extraer la fecha y hora\nvar date = new Date();\nvar dia = date.getDate();\nvar mes = (date.getMonth() + 1);\nvar anio = date.getFullYear();\n\nmsg.payload =date.getTime();\n\nvar hora = date.getHours();\nvar minuto = date.getMinutes();\nvar segundo = date.getSeconds();\n\n//Envio de datos a la DB\n\nvar newMsg = {\n\"topic\": \"INSERT INTO datos1 VALUES (\" + msg.payload + \",\" + dia + \",\" + mes + \",\" + anio + \",\" + hora + \",\" + minuto + \",\" + segundo + \",'\"+LugarDeIncidente+\"')\"\n}\nreturn newMsg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 234,
+        "y": 3856,
+        "wires": [
+            [
+                "05200a7d225ef828"
+            ]
+        ]
+    },
+    {
+        "id": "0ef749a0dc21f699",
+        "type": "sqlite",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "mydb": "729a62618fd7b3f0",
+        "sqlquery": "msg.topic",
+        "sql": "",
+        "name": "",
+        "x": 438,
+        "y": 4160,
+        "wires": [
+            [
+                "2d5e7332914d174b"
+            ]
+        ]
+    },
+    {
+        "id": "14657fe562fc393e",
+        "type": "inject",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "name": "mostrar",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "SELECT * FROM datos1",
+        "payload": "",
+        "payloadType": "date",
+        "x": 192,
+        "y": 4192,
+        "wires": [
+            [
+                "0ef749a0dc21f699"
+            ]
+        ]
+    },
+    {
+        "id": "85a133a50b78a14f",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "function 37",
+        "func": "\nif (msg.payload == 0 ) {\n\nvar newMsg = {estacion : \"Planta apagada\"}\n\nreturn  newMsg;\n\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 598,
+        "y": 192,
+        "wires": [
+            [
+                "b8a034cf3f523711"
+            ]
+        ]
+    },
+    {
+        "id": "b8a034cf3f523711",
+        "type": "link out",
+        "z": "e0590eab702f52a7",
+        "g": "40aa7650d9fa66d1",
+        "name": "Planta Apagada",
+        "mode": "link",
+        "links": [
+            "1b3cb96953468237"
+        ],
+        "x": 751,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "83782fd6b0e15fd4",
+        "type": "inject",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "name": "eliminar tabla",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "DROP TABLE  datos1",
+        "payload": "",
+        "payloadType": "date",
+        "x": 234,
+        "y": 4016,
+        "wires": [
+            [
+                "0ef749a0dc21f699"
+            ]
+        ]
+    },
+    {
+        "id": "360c16f838006425",
+        "type": "inject",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "name": "mostara 100 eventos",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "SELECT * FROM datos1 ORDER BY id DESC LIMIT 50",
+        "payload": "",
+        "payloadType": "date",
+        "x": 192,
+        "y": 4080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "acaaa98435fba13c",
+        "type": "inject",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "name": "mostrar",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "SELECT*ALL FROM datos1",
+        "payload": "",
+        "payloadType": "date",
+        "x": 200,
+        "y": 4144,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "b170e715934beb16",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 38",
+        "func": "\nif (msg.payload == 1 ) {\n\nvar newMsg = {estacion : \"Revalse de Estanque\"}\n\nreturn  newMsg;\n\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 378,
+        "y": 2144,
+        "wires": [
+            [
+                "d55fcdb9b95824df"
+            ]
+        ]
+    },
+    {
+        "id": "d55fcdb9b95824df",
+        "type": "link out",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "Revalse de estanque",
+        "mode": "link",
+        "links": [
+            "1b3cb96953468237"
+        ],
+        "x": 511,
+        "y": 2144,
+        "wires": []
+    },
+    {
+        "id": "2151ce6bf4e19217",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 39",
+        "func": "\nif (msg.payload == 1 ) {\n\nvar newMsg = {estacion : \"Estaque con menos de 7.000 litros\"}\n\nreturn  newMsg;\n\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 326,
+        "y": 2944,
+        "wires": [
+            [
+                "e8d483342be87348"
+            ]
+        ]
+    },
+    {
+        "id": "e8d483342be87348",
+        "type": "link out",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "Alarma Nivel Bajo",
+        "mode": "link",
+        "links": [
+            "1b3cb96953468237"
+        ],
+        "x": 479,
+        "y": 2944,
+        "wires": []
+    },
+    {
+        "id": "de0b140c86aeecf4",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 40",
+        "func": "\nif (msg.payload == 1 ) {\n\nvar newMsg = {estacion : \"Produciendo agua\"}\n\nreturn  newMsg;\n\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 458,
+        "y": 2720,
+        "wires": [
+            [
+                "793fcf5a701f3e97"
+            ]
+        ]
+    },
+    {
+        "id": "793fcf5a701f3e97",
+        "type": "link out",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "Alarma Nivel Bajo",
+        "mode": "link",
+        "links": [
+            "1b3cb96953468237"
+        ],
+        "x": 657,
+        "y": 2720,
+        "wires": []
+    },
+    {
+        "id": "b76758aa33470f61",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 41",
+        "func": "\nif (msg.payload == 1 ) {\n\nvar newMsg = {estacion : \"Estaque LLeno con 28.000 litros\"}\n\nreturn  newMsg;\n\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 294,
+        "y": 2384,
+        "wires": [
+            [
+                "a2631981b8965ed7"
+            ]
+        ]
+    },
+    {
+        "id": "a2631981b8965ed7",
+        "type": "link out",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "estanque lleno",
+        "mode": "link",
+        "links": [
+            "1b3cb96953468237"
+        ],
+        "x": 445,
+        "y": 2384,
+        "wires": []
+    },
+    {
+        "id": "63b39c81a7f9fb62",
+        "type": "ui_button",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "name": "",
+        "group": "6abf8a692de7b9e2",
+        "order": 2,
+        "width": 14,
+        "height": 1,
+        "passthru": false,
+        "label": "Eliminar Tabla",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "DROP TABLE  datos1",
+        "topicType": "str",
+        "x": 468,
+        "y": 4032,
+        "wires": [
+            [
+                "0ef749a0dc21f699"
+            ]
+        ]
+    },
+    {
+        "id": "8dceda73b265a103",
+        "type": "ui_button",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "name": "",
+        "group": "6abf8a692de7b9e2",
+        "order": 3,
+        "width": 14,
+        "height": 1,
+        "passthru": false,
+        "label": "Crear Tabla",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "",
+        "className": "",
+        "icon": "",
+        "payload": "",
+        "payloadType": "str",
+        "topic": "CREATE TABLE datos1 (TIMESTAMP INTEGER PRIMARY KEY NOT NULL, DIA NUMERIC NOT NULL,MES NUMERIC NOT NULL,ANIO NUMERIC NOT NULL,HORA NUMERIC NOT NULL,MINUTO NUMERIC NOT NULL,SEG NUMERIC NOT NULL,VALUE TEXT NOT NULL);",
+        "topicType": "str",
+        "x": 698,
+        "y": 4032,
+        "wires": [
+            [
+                "0ef749a0dc21f699"
+            ]
+        ]
+    },
+    {
+        "id": "a310857abcf04b45",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "function 42",
+        "func": "\nif (msg.payload == 1 ) {\n\nvar newMsg = {estacion : \"Presión de entrada correcta entre 40 y 50 PSI\"}\n\nreturn  newMsg;\n\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 1936,
+        "wires": [
+            [
+                "a8deb53c846a9639"
+            ]
+        ]
+    },
+    {
+        "id": "a8deb53c846a9639",
+        "type": "link out",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "Presión de Entrada",
+        "mode": "link",
+        "links": [
+            "1b3cb96953468237"
+        ],
+        "x": 529,
+        "y": 1936,
+        "wires": []
+    },
+    {
+        "id": "7f08aaa8e6f9905a",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "2000",
+                "fromt": "num",
+                "to": "1",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 196,
+        "y": 1936,
+        "wires": [
+            [
+                "a310857abcf04b45"
+            ]
+        ]
+    },
+    {
+        "id": "c7af2d5f48e59f61",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "off",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Offv",
+                "fromt": "str",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 1010,
+        "y": 1472,
+        "wires": [
+            [
+                "39838bb30795e8a0"
+            ]
+        ]
+    },
+    {
+        "id": "0cd835f97ce8a25f",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "on",
+        "rules": [
+            {
+                "t": "change",
+                "p": "payload",
+                "pt": "msg",
+                "from": "Onv",
+                "fromt": "str",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 926,
+        "y": 1552,
+        "wires": [
+            [
+                "39838bb30795e8a0"
+            ]
+        ]
+    },
+    {
+        "id": "c068c1a9a851a51d",
+        "type": "telegram receiver",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "Resibir Datos",
+        "bot": "2f6b4f063002ab45",
+        "saveDataDir": "",
+        "filterCommands": false,
+        "x": 790,
+        "y": 1424,
+        "wires": [
+            [
+                "8b9363e4c36247fa"
+            ],
+            [
+                "16e0f12bf5a5fcb8"
+            ]
+        ]
+    },
+    {
+        "id": "8b9363e4c36247fa",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "function 43",
+        "func": "msg.payload = msg.originalMessage.text;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 970,
+        "y": 1424,
+        "wires": [
+            [
+                "c7af2d5f48e59f61"
+            ]
+        ]
+    },
+    {
+        "id": "16e0f12bf5a5fcb8",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "name": "function 44",
+        "func": "msg.payload = msg.originalMessage.text;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 854,
+        "y": 1488,
+        "wires": [
+            [
+                "0cd835f97ce8a25f"
+            ]
+        ]
+    },
+    {
+        "id": "39838bb30795e8a0",
+        "type": "s7 out",
+        "z": "e0590eab702f52a7",
+        "g": "cc6a9d5bce0ee085",
+        "endpoint": "24907a883939d887",
+        "variable": "Válvula_de_Emergencia",
+        "name": "Válvula de emergencia",
+        "x": 1128,
+        "y": 1552,
+        "wires": []
+    },
+    {
+        "id": "6c61e2f4d3de42ef",
+        "type": "change",
+        "z": "e0590eab702f52a7",
+        "g": "b8f9b4bf1093e6ff",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 160,
+        "y": 3568,
+        "wires": [
+            [
+                "ba298b1e4c2abcbc",
+                "1da25cb7570be82d"
+            ]
+        ]
+    },
+    {
+        "id": "3898d3f522cd819d",
+        "type": "telegram sender",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "Enviar Datos",
+        "bot": "2f6b4f063002ab45",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 726,
+        "y": 2768,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "053d0069be7b4522",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 45",
+        "func": "if (msg.payload == 1 ) {\n    msg.payload={\n        \"content\":'Bombas con amperajes correctos',\n        \"type\":\"message\",\n        \"chatId\": \"1511066569\" //chatID \n    };\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 550,
+        "y": 2768,
+        "wires": [
+            [
+                "3898d3f522cd819d"
+            ]
+        ]
+    },
+    {
+        "id": "2b039e859714ff46",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "function 46",
+        "func": "\nif (msg.payload == true ) {\n\nvar newMsg = {estacion : \"Bombas con amperajes correctos\"}\n\nreturn  newMsg;\n\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 342,
+        "y": 2896,
+        "wires": [
+            [
+                "bc05ca20de9a5e12"
+            ]
+        ]
+    },
+    {
+        "id": "bc05ca20de9a5e12",
+        "type": "link out",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "name": "Bombas con Amperajes Correctos",
+        "mode": "link",
+        "links": [
+            "7c0caf7165530154"
+        ],
+        "x": 481,
+        "y": 2896,
+        "wires": []
+    },
+    {
+        "id": "30f24633a7fa3ff5",
+        "type": "s7 in",
+        "z": "e0590eab702f52a7",
+        "g": "e2db13d19e02f84e",
+        "endpoint": "24907a883939d887",
+        "mode": "single",
+        "variable": "Nivel_Bajo",
+        "diff": true,
+        "name": "",
+        "x": 172,
+        "y": 2896,
+        "wires": [
+            [
+                "2b039e859714ff46"
+            ]
+        ]
+    },
+    {
+        "id": "7c0caf7165530154",
+        "type": "link in",
+        "z": "e0590eab702f52a7",
+        "g": "26d0ea96339f3d4d",
+        "name": "link in 2",
+        "links": [
+            "bc05ca20de9a5e12"
+        ],
+        "x": 97,
+        "y": 3920,
+        "wires": [
+            [
+                "691fd03691767881"
+            ]
+        ]
+    },
+    {
+        "id": "5a46675e4467f7da",
+        "type": "telegram sender",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "Enviar Datos",
+        "bot": "2f6b4f063002ab45",
+        "haserroroutput": false,
+        "outputs": 1,
+        "x": 890,
+        "y": 1824,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "dd9b72cd32f88cb9",
+        "type": "function",
+        "z": "e0590eab702f52a7",
+        "g": "ee832e5d1d1350b6",
+        "name": "function 47",
+        "func": "if (msg.payload == 1 ) {\n    msg.payload={\n        \"content\":'Si exiten problemas de presión menor 40 PSI por favor revisar filtros',\n        \"type\":\"message\",\n        \"chatId\": \"1511066569\" //chatID \n    };\n    return msg;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 618,
+        "y": 1824,
+        "wires": [
+            [
+                "5a46675e4467f7da"
+            ]
+        ]
+    }
+]
